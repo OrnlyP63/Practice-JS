@@ -1,0 +1,21 @@
+{
+  "name": "iron",
+  "version": "0.1.0",
+  "description": "demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon app.js"
+  },
+  "keywords": [
+    "demo",
+    "array"
+  ],
+  "author": "phiphat c",
+  "license": "MIT",
+  "dependencies": {
+    "csv": "^5.3.2",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
